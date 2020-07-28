@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Twitter](https://twitter.com/devtty1er) | [Blog](https://devtty1er.com)
+
 <!--
 **devtty1er/devtty1er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![devtty1er's github stats](https://github-readme-stats.vercel.app/api?username=devtty1er&show_icons=true&theme=light&count_private=true)
+
